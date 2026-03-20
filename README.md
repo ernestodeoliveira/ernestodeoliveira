@@ -34,7 +34,7 @@ Starknet enthusiast. Building tooling and onboarding content for the ecosystem.
 ### 🛠️ Stack
 
 ```
-Backend      C# · Go · Node.js · Python · MQL5
+Backend      C# · Go · Node.js · Python
 Frontend     Next.js · React
 Blockchain   Starknet · Cairo · Solidity
 Data         PostgreSQL · Supabase
